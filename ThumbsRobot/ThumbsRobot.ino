@@ -1,3 +1,6 @@
+// Thumbs Robot made by Eunchan Park
+// http://Youtube.com/EunchanPark
+
 #include <Servo.h>
 
 Servo servo[6];
